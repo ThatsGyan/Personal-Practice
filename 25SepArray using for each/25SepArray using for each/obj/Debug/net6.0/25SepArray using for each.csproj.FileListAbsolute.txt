@@ -1,0 +1,15 @@
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\bin\Debug\net6.0\25SepArray using for each.exe
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\bin\Debug\net6.0\25SepArray using for each.deps.json
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\bin\Debug\net6.0\25SepArray using for each.runtimeconfig.json
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\bin\Debug\net6.0\25SepArray using for each.dll
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\bin\Debug\net6.0\25SepArray using for each.pdb
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\obj\Debug\net6.0\25SepArray using for each.csproj.AssemblyReference.cache
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\obj\Debug\net6.0\25SepArray using for each.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\obj\Debug\net6.0\25SepArray using for each.AssemblyInfoInputs.cache
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\obj\Debug\net6.0\25SepArray using for each.AssemblyInfo.cs
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\obj\Debug\net6.0\25SepArray using for each.csproj.CoreCompileInputs.cache
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\obj\Debug\net6.0\25SepArray using for each.dll
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\obj\Debug\net6.0\refint\25SepArray using for each.dll
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\obj\Debug\net6.0\25SepArray using for each.pdb
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\obj\Debug\net6.0\25SepArray using for each.genruntimeconfig.cache
+C:\Users\GYAN\Source\Repos\25SepArray using for each\25SepArray using for each\obj\Debug\net6.0\ref\25SepArray using for each.dll

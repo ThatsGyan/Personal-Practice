@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4IvKODjtFjPNeSQ8Z/000glmL1f6Qh0ZLHwJDkWPunkWYatrlwpMd0mY4OA88T+vcvaWPfUxLFonjOaXtITtCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GYAN\\Source\\Repos\\25SepConsoleUiLog4Net\\25SepConsoleUiLog4Net\\25SepConsoleUiLog4Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GYAN\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Users\\GYAN\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\GYAN\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\GYAN\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\GYAN\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\GYAN\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\GYAN\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+C:\Users\GYAN\Source\Repos\log4netpractice\log4netpractice\obj\Debug\log4netpractice.csproj.AssemblyReference.cache
+C:\Users\GYAN\Source\Repos\log4netpractice\log4netpractice\obj\Debug\log4netpractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\GYAN\Source\Repos\log4netpractice\log4netpractice\obj\Debug\log4netpractice.csproj.CoreCompileInputs.cache
